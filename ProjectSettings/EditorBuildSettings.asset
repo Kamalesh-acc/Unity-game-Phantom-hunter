@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/start  menu.unity
+    guid: 4058e91727762a541b66cfa2f622d15a
+  - enabled: 1
+    path: Assets/floor1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/bossFight.unity
+    guid: 07f5f2be494cc6a4f80788acb0a8f00e
+  - enabled: 1
+    path: Assets/starter scene.unity
+    guid: 1288ce84bdc3a654e810039df1000fa7
+  - enabled: 1
+    path: Assets/floor2.unity
+    guid: 137a4a6d8cfa8c64fa83b1e3da85efd7
+  - enabled: 1
+    path: Assets/garden.unity
+    guid: 3794a7d9f0fb9f8449c30d75bde998a1
+  - enabled: 1
+    path: Assets/scroll.unity
+    guid: bd8fbfe503689b24db8044ecac0ddbfd
+  - enabled: 1
+    path: Assets/end game.unity
+    guid: e2d7805e3405d494fad787672c5ecfbe
+  - enabled: 1
+    path: Assets/floor3.unity
+    guid: 836afe7bab0d273448cfc9116c6b60b1
+  - enabled: 1
+    path: Assets/transition.unity
+    guid: 0e1a41e6ee6cf8c4eaca10e2296424b4
+  - enabled: 1
+    path: Assets/victory.unity
+    guid: 9d56346258ae5fd488c6a7ac487b5907
+  - enabled: 1
+    path: Assets/basement.unity
+    guid: 33d9b5f8386ccd24ab9399f4859e054b
+  m_configObjects: {}

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ghostNormal
+  - invisible
+  - Bullet
+  - Bullet1
+  - Bullet2
+  - ghost2
+  - ghost3
+  - dontcare
+  - boss
+  - bmb
+  - playerBullet2
+  - playerBullet3
+  - key
+  - magic
+  - door
+  - door2
+  - door3
+  - door4
+  - door5
+  - door6
+  - door7
+  - door8
+  - door9
+  - door10
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - bossbullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Characters
+    uniqueID: 223056619
+    locked: 0

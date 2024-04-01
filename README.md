@@ -2,6 +2,8 @@
 
 Welcome to Phantom Hunter, an exciting 2D adventure game where player navigate through a haunted mansion, shooting ghosts with energy bullets in their quest to confront the powerful underworld boss!
 
+[Live Demo](https://champkx.itch.io/phantom-hunter)
+
 ## Overview
 
 Phantom Hunter is a single-player 2D game developed using Unity. Players assume the role of a brave Soldier armed with energy bullets, exploring a spooky mansion filled with ghosts and then to confront the powerful underworld boss. The game features multiple floors, each with challenges.
